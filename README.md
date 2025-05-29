@@ -25,6 +25,7 @@ This project presents a dynamic Power BI dashboard designed to analyze and visua
 
 This page provides a high-level summary of total revenue, YoY growth percentage, booking volume, and tickets sold. It includes a dual-axis chart breaking down monthly B2B and B2C revenue trends and a top 5 entities bar chart highlighting the highest-performing sources. A donut chart visualizes channel-wise revenue distribution. Slicers enable focused filtering by date, entity, and segment type (B2B/B2C).
 
+
 ### **Page 2: Revenue Forecasting & Entity-Level Breakdown**
   
 ![[Forecasting](Screenshots/page2_forecast.png)](https://github.com/Abdullah2796/Revenue_Pulse/blob/main/Forecasting%20%26%20Entity%20Breakdown.png)
@@ -59,6 +60,4 @@ This project showcases advanced Power BI skills including:
 - Visual storytelling and executive reporting  
 - Revenue analysis and forecast interpretation
 
----
 
-📌 **Note:** This dashboard is part of my preparation for the PL-300 Microsoft Power BI Data Analyst certification.
