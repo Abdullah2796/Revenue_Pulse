@@ -28,7 +28,7 @@ This page delivers a forward-looking forecast of total revenue over the next fou
 ## 📸 Visual Preview
 
 ### Dashboard Page 1 – Performance Overview  
-![Page 1 – Performance Overview](Revenue_Pulse/Performance%20Overview.png)
+(Revenue_Pulse/Performance%20Overview.png)
 
 ### Dashboard Page 2 – Forecasting & Entity Comparison  
 ![Forecasting](Screenshots/page2_forecast.png)
