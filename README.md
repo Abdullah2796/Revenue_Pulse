@@ -35,7 +35,7 @@ This page delivers a forward-looking forecast of total revenue over the next fou
 
 ## 🎥 Demo Walkthrough  
 ▶️ Watch a short video demo of the dashboard in action:  
-![(Screenshots/page1_overview.png)](Revenue_Pulse/RevenuePulse_Compressed.mp4)](https://github.com/Abdullah2796/Revenue_Pulse/blob/main/RevenuePulse_Compressed.mp4)
+![https://github.com/Abdullah2796/Revenue_Pulse/blob/main/RevenuePulse_Compressed.mp4]
 ## 💡 Key Features
 
 - **Fully interactive** with slicers and drill-down capabilities  
