@@ -20,22 +20,18 @@ This project presents a dynamic Power BI dashboard designed to analyze and visua
 ## 📄 Dashboard Pages
 
 ### **Page 1: Performance Overview**
+
+![(Revenue_Pulse/Performance%20Overview.png)](https://github.com/Abdullah2796/Revenue_Pulse/blob/main/Performance%20Overview.png)
+
 This page provides a high-level summary of total revenue, YoY growth percentage, booking volume, and tickets sold. It includes a dual-axis chart breaking down monthly B2B and B2C revenue trends and a top 5 entities bar chart highlighting the highest-performing sources. A donut chart visualizes channel-wise revenue distribution. Slicers enable focused filtering by date, entity, and segment type (B2B/B2C).
 
 ### **Page 2: Revenue Forecasting & Entity-Level Breakdown**
-This page delivers a forward-looking forecast of total revenue over the next four months using Power BI's analytics and trend projection tools. It also includes a detailed entity-level breakdown table comparing 2023 vs 2024 revenue, along with a clustered column chart showing B2B vs B2C revenue per entity. Slicers allow users to interactively drill into specific segments or time periods.
-
-## 📸 Visual Preview
-
-### Dashboard Page 1 – Performance Overview  
-![(Revenue_Pulse/Performance%20Overview.png)](https://github.com/Abdullah2796/Revenue_Pulse/blob/main/Performance%20Overview.png)
-
-### Dashboard Page 2 – Forecasting & Entity Comparison  
+  
 ![[Forecasting](Screenshots/page2_forecast.png)](https://github.com/Abdullah2796/Revenue_Pulse/blob/main/Forecasting%20%26%20Entity%20Breakdown.png)
 
-## 🎥 Demo Walkthrough  
-▶️ Watch a short video demo of the dashboard in action:  
-![https://github.com/Abdullah2796/Revenue_Pulse/blob/main/RevenuePulse_Compressed.mp4]
+This page delivers a forward-looking forecast of total revenue over the next four months using Power BI's analytics and trend projection tools. It also includes a detailed entity-level breakdown table comparing 2023 vs 2024 revenue, along with a clustered column chart showing B2B vs B2C revenue per entity. Slicers allow users to interactively drill into specific segments or time periods.
+
+
 ## 💡 Key Features
 
 - **Fully interactive** with slicers and drill-down capabilities  
