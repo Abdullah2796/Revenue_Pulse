@@ -28,7 +28,7 @@ This page delivers a forward-looking forecast of total revenue over the next fou
 ## 📸 Visual Preview
 
 ### Dashboard Page 1 – Performance Overview  
-![Dashboard Overview]("C:\Users\Lenovo\Pictures\Screenshots\Screenshot 2025-05-29 152800.png")
+![Dashboard Overview]"C:\Users\Lenovo\Pictures\Screenshots\Screenshot 2025-05-29 152800.png"
 
 ### Dashboard Page 2 – Forecasting & Entity Comparison  
 ![Forecasting](Screenshots/page2_forecast.png)
